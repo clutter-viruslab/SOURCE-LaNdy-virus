@@ -1,0 +1,8 @@
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\obj\Debug\CleanFull.csproj.CoreCompileInputs.cache
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\obj\Debug\CleanFull.Properties.Resources.resources
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\obj\Debug\CleanFull.csproj.GenerateResource.cache
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\bin\Debug\CleanFull.exe
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\bin\Debug\CleanFull.pdb
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\obj\Debug\CleanFull.Main.resources
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\obj\Debug\CleanFull.exe
+C:\Users\emlin\Desktop\LAndy\Source\CleanFull\obj\Debug\CleanFull.pdb
